@@ -1,6 +1,6 @@
 <?php
-define("DBUSER", "root");
-define("DBPASS", "samsung");
-define("DBURL", "localhost");
-define("DBNAME", "carwatch");
+define("DBUSER", "xxxx");
+define("DBPASS", "xxxx");
+define("DBURL", "lxxxxx");
+define("DBNAME", "xxxxxx");
 ?>
